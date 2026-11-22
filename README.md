@@ -1,4 +1,4 @@
-![Dashboard](docs/dashboard.png)
+![Dashboard](docs/Dashboard.png)
 # OrderFlow
 
 An event-driven order processing platform built with **Java 17, Spring Boot, Apache Kafka, PostgreSQL and React**.
